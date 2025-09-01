@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+
+selector: peseudo-class {
+  property: value;
+}
+
+body {
+  background-color: rgb(86, 104, 138);
+}
+h1 {
+  color: rgb(66, 191, 230);
+}
+h3 {
+  color:rgb(59, 36, 211)
+}
+p {
+  color: rgb(238, 235, 227);
+}
+<h1> this is heading </h1>
+<p> this is paragraph. <p>
+
+
+</body>
+</html>
